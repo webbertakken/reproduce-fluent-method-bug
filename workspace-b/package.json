@@ -1,0 +1,9 @@
+{
+  "name": "workspace-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "workspace-a": "1.0.0"
+  }
+}

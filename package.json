@@ -1,0 +1,12 @@
+{
+  "name": "reproduce-fluent-method-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["workspace-a", "workspace-b"],
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^2.3.2"
+  }
+}
